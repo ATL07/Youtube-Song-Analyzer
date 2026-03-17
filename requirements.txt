@@ -1,0 +1,11 @@
+yt-dlp
+librosa
+numpy
+scipy
+matplotlib
+pandas
+scikit-learn
+transformers
+torch
+langdetect
+spotipy
